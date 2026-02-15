@@ -4,8 +4,8 @@ Este es mi primer repositorio donde guardo mis scripts de Python. Tengo 14 años
 This is my first repository where I store my Python scripts. I'm 14 years old and I'm learning to program.
 
 ## ¿Qué son estos proyectos? / What are these projects?
-En esta carpeta tengo 4 archivos que demuestran mis avances día por día:
-In this folder, I have 4 files that show my daily progress:
+En esta carpeta tengo 6 archivos que demuestran mis avances día por día:
+In this folder, I have 6 files that show my daily progress:
 
 * **datos_simples:** En este archivo se demuestra mi primera interacción con la programación. / In this file, I demonstrate my first interaction with programming.
 
