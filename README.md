@@ -4,20 +4,8 @@ Este es mi primer repositorio donde guardo mis scripts de Python. Tengo 14 años
 This is my first repository where I store my Python scripts. I'm 14 years old and I'm learning to program.
 
 ## ¿Qué son estos proyectos? / What are these projects?
-En esta carpeta tengo 6 archivos que demuestran mis avances día por día:
-In this folder, I have 6 files that show my daily progress:
-
-* **datos_simples:** En este archivo se demuestra mi primera interacción con la programación. / In this file, I demonstrate my first interaction with programming.
-
-* **reto_dia1:** En este archivo puse a prueba todo lo aprendido el primer día. / In this file, I put everything I learned on the first day to the test.
-
-* **bucles:** Aquí en este archivo comprendí el uso del while. / In this file, I understood how to use the while loop.
-
-* **reto_dia2:** Hasta el momento este es mi código favorito y del cual me siento muy orgulloso (aunque sea un código muy simple). / So far, this is my favorite code and I am very proud of it (even if it is a very simple code).
-
-* **listas:** En este archivo demoré bastante tiempo, no por ser difícil, sino porque estaba enfermo :'v Pero al final sí entendí las variables complejas y el for. / In this file, I spent quite a bit of time, not because it was difficult, but because I was sick :'v But in the end, I did understand complex variables and the for loop.
-
-* **reto_dia3:** Aquí le pedí a una IA que me diera una idea para hacerlo; siendo sincero, tuve que utilizar algo de ayuda, pero aprendí, que es lo importante. / Here I asked an AI to give me an idea to do it; to be honest, I had to use some help, but I learned, which is the important part.
+En esta carpeta tengo 10 archivos que demuestran mis avances día por día
+In this folder, I have 10 files that show my daily progress
 
 ## Tecnologías usadas / Technologies used
 * Python 3
